@@ -9,7 +9,7 @@ Features
 -------
 
 Protect and obfuscate sensitive area of code using virtual machine protection ( translation of byte-code to PCode and run them inside Virtual Machine )
- Project has been writen in Microsoft VC++ & little pure asm code and uses BeaEngine as disassembled engine. It's not enught secure to use in commercial projects so try to learn how it works and make it better.
+ Project has been writen in Microsoft VC++ & little pure asm code and uses BeaEngine as disassembler engine. It's not enught secure to use in commercial projects so try to learn how it works and make it better.
 
 Supported x86 opcodes :
 
