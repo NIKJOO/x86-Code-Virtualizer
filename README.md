@@ -1,6 +1,6 @@
 # x86 Code Virtualizer (Code Obfuscator)
 
-Open-source and lite application to obfuscate binary codes and prevent reverse engineering to understand code.
+Open-source and lite application to obfuscate binary codes and makes challenge for reverse engineers to understand code.
 
 <a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/o6bn_2020-09-03_012505.jpg" border="0" /></a>
 
