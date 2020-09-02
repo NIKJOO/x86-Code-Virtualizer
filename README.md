@@ -16,8 +16,8 @@ Supported x86 opcodes :
 		Mov,Call,Push,Pop,Jump,Inc,Add,Xor,Cmp,Shl,Shr,Not,Or,Sub,Conditional Jumps.
 
 
-__________
-My Contact Information	
+Contact
+-------	
 
 Email : nima.nikjoo@gmail.com
 
