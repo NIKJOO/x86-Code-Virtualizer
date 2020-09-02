@@ -21,7 +21,9 @@ Contact
 
 Email : nima.nikjoo@gmail.com
 
-Twitter : https://twitter.com/Nima__Nikjoo  
+Twitter : https://twitter.com/Nima__Nikjoo
+
+LinkedIn : https://www.linkedin.com/in/nimanikjoo/
 
 ___________________
 
