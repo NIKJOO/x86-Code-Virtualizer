@@ -1,4 +1,4 @@
-# x86 Code Virtualization Tool
+# x86 Code Virtualizer (Code Obfuscator)
 
 Open-source and lite application to obfuscate binary codes and prevent reverse engineering.
 
