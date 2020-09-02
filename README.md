@@ -13,7 +13,8 @@ Supported x86 opcodes :
 __________
 My Contact Information	
 
-Email : nima.nikjoo@gmail.com |
+Email : nima.nikjoo@gmail.com
+
 Twitter : https://twitter.com/Nima__Nikjoo  
 
 ___________________
